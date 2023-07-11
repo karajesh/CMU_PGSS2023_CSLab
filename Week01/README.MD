@@ -28,7 +28,7 @@ It then visualizes the distribution of Species in a frequency table using print(
 
 Finally, it generates a ggplot diagram to visualize a boxplot of Sepal.Width by Species and writes this plot out to an image file located at "/Users/pgmenon/Documents/CMU/PGSS2023/CMU_PGSS2023_CSLab/Week01/iris.png" using ggplot2 and cowplot packages. The plot is saved using save_plot function with base height and width set to 4 and limitsize set to FALSE.
 
-#Chat GPT generated code
+# Chat GPT generated code
 We used open ai to generate code to interpret the iris file
 
 use vs code to generate code using copilot
