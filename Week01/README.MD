@@ -49,4 +49,7 @@ non-parametric tests
 
 goal of classifier: find what numerical features will create distinct distributions
 
+# regression
 
+
+# logistic regression
