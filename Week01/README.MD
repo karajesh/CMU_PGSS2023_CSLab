@@ -34,7 +34,19 @@ We used open ai to generate code to interpret the iris file
 use vs code to generate code using copilot
 then use colab to run the code
 
-lol
 
+
+# continuous predictor --> categorical response
+    - trying to separate continuous data into separate categories
+
+parametric tests (area under distribution = 1 always) - allow you to estabish whether or not a new observation belongs to this distribution
+    anova
+    t-test
+    z-test (models the data based on normal distrubution (bell curve))
+
+non-parametric tests
+    mannwhitney utest : comparese means of distributions without making assumptions about the parameters of the distributions
+
+goal of classifier: find what numerical features will create distinct distributions
 
 
