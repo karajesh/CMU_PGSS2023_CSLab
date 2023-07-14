@@ -34,5 +34,7 @@ We used open ai to generate code to interpret the iris file
 use vs code to generate code using copilot
 then use colab to run the code
 
+lol
+
 
 
